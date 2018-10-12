@@ -1,41 +1,41 @@
 * Computer Graphics
-** [[http://realtimecollisiondetection.net/books/list/][Christer Ericson's List]]
-** [[http://www.realtimerendering.com/books.html][Real-Time Rendering Graphics Books Page]]
-** [[http://mrelusive.com/books/books.html][Books For Game Developers]]
-** [[http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php][The Computer Graphics Library]]
+- [[http://realtimecollisiondetection.net/books/list/][Christer Ericson's List]]
+- [[http://www.realtimerendering.com/books.html][Real-Time Rendering Graphics Books Page]]
+- [[http://mrelusive.com/books/books.html][Books For Game Developers]]
+- [[http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php][The Computer Graphics Library]]
 
 * Mathematics
-** [[https://www.ocf.berkeley.edu/~abhishek/chicmath.htm][Chicago undergraduate mathematics bibliography]]
-** [[http://sgsa.berkeley.edu/current-students/recommended-books][UC Berkeley Statitistics List]]
-** [[http://4chan-science.wikia.com/wiki/Mathematics][/sci/ Wiki - Mathematics]]
-** [[http://4chan-science.wikia.com/wiki/Math_Textbook_Recommendations][/sci/ Wiki - Math Textbook Recommendations]]
-** [[http://hbpms.blogspot.com/][How to Become a Pure Mathematician (or Statistician)]]
-** [[http://www.moremathsgrads.org.uk/maths-books.html][University Maths Books: Mathematics Text Books]]
-** [[http://www.ams.org/notices/200510/comm-fowler.pdf][The Mathematics Autodidact's Aid]]
-** [[https://mathtuition88.com/2014/10/19/undergraduate-level-math-book-recommendations/][Undergraduate Level Math Book Recommendations]]
+- [[https://www.ocf.berkeley.edu/~abhishek/chicmath.htm][Chicago undergraduate mathematics bibliography]]
+- [[http://sgsa.berkeley.edu/current-students/recommended-books][UC Berkeley Statitistics List]]
+- [[http://4chan-science.wikia.com/wiki/Mathematics][/sci/ Wiki - Mathematics]]
+- [[http://4chan-science.wikia.com/wiki/Math_Textbook_Recommendations][/sci/ Wiki - Math Textbook Recommendations]]
+- [[http://hbpms.blogspot.com/][How to Become a Pure Mathematician (or Statistician)]]
+- [[http://www.moremathsgrads.org.uk/maths-books.html][University Maths Books: Mathematics Text Books]]
+- [[http://www.ams.org/notices/200510/comm-fowler.pdf][The Mathematics Autodidact's Aid]]
+- [[https://mathtuition88.com/2014/10/19/undergraduate-level-math-book-recommendations/][Undergraduate Level Math Book Recommendations]]
 
 * Physics
-** [[https://www.ocf.berkeley.edu/~abhishek/chicphys.htm][Chicago Undergraduate Physics Bibliography]]
-** [[https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics][So You Want To Learn Physics...]]
-** [[http://4chan-science.wikia.com/wiki/Physics_Textbook_Recommendations][/sci/ Wiki - Physics Textbook Recommendations]]
+- [[https://www.ocf.berkeley.edu/~abhishek/chicphys.htm][Chicago Undergraduate Physics Bibliography]]
+- [[https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics][So You Want To Learn Physics...]]
+- [[http://4chan-science.wikia.com/wiki/Physics_Textbook_Recommendations][/sci/ Wiki - Physics Textbook Recommendations]]
 
 * Game Physics
-** [[http://chrishecker.com/Physics_References#Collision_Detection][An Annotated Bibliography for Rigid Body Dynamics]]
+- [[http://chrishecker.com/Physics_References#Collision_Detection][An Annotated Bibliography for Rigid Body Dynamics]]
 
 * Computer Science
-** [[https://teachyourselfcs.com/][Teach Yourself Computer Science]]
-** [[https://functionalcs.github.io/curriculum/][A Self-Learning, Modern Computer Science Curriculum]]
-** [[http://4chan-science.wikia.com/wiki/Computer_Science_and_Engineering][/sci/ Wiki - Computer Science and Engineering]]
-** [[https://github.com/jozefg/learn-tt][Learn type theory]]
-** [[https://wiki.osdev.org/Books][Osdev books]]
+- [[https://teachyourselfcs.com/][Teach Yourself Computer Science]]
+- [[https://functionalcs.github.io/curriculum/][A Self-Learning, Modern Computer Science Curriculum]]
+- [[http://4chan-science.wikia.com/wiki/Computer_Science_and_Engineering][/sci/ Wiki - Computer Science and Engineering]]
+- [[https://github.com/jozefg/learn-tt][Learn type theory]]
+- [[https://wiki.osdev.org/Books][Osdev books]]
 
 * Programming
-** [[https://blog.codinghorror.com/recommended-reading-for-developers/][Recommended Reading for Developers]]
-** [[https://gist.github.com/vrinek/bda51f6fc8b22b5df301][Blizzard Software Engineering Reading]]
+- [[https://blog.codinghorror.com/recommended-reading-for-developers/][Recommended Reading for Developers]]
+- [[https://gist.github.com/vrinek/bda51f6fc8b22b5df301][Blizzard Software Engineering Reading]]
 
 * Game development
-** [[https://github.com/miloyip/game-programmer][A Study Path for Game Programmer]]
+- [[https://github.com/miloyip/game-programmer][A Study Path for Game Programmer]]
 
 * More bibliographies
-** [[https://www.reddit.com/r/bibliographies/][r/bibliographies]]
+- [[https://www.reddit.com/r/bibliographies/][r/bibliographies]]
 
