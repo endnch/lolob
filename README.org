@@ -4,6 +4,9 @@
 - [[http://mrelusive.com/books/books.html][Books For Game Developers]]
 - [[http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php][The Computer Graphics Library]]
 
+* Logic
+- [[https://www.logicmatters.net/tyl/][Teach Yourself Logic]]
+
 * Mathematics
 - [[https://www.ocf.berkeley.edu/~abhishek/chicmath.htm][Chicago undergraduate mathematics bibliography]]
 - [[http://sgsa.berkeley.edu/current-students/recommended-books][UC Berkeley Statitistics List]]
