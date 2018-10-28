@@ -24,6 +24,7 @@
 
 * Game Physics
 - [[http://chrishecker.com/Physics_References#Collision_Detection][An Annotated Bibliography for Rigid Body Dynamics]]
+- [[http://www.physicsbasedanimation.com/books-2/][Physics-Based Animation Books Page]]
 
 * Computer Science
 - [[https://teachyourselfcs.com/][Teach Yourself Computer Science]]
