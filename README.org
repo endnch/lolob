@@ -42,4 +42,4 @@
 
 * More bibliographies
 - [[https://www.reddit.com/r/bibliographies/][r/bibliographies]]
-
+- [[http://www.canonical.works][Canonical Works]]
